@@ -1,4 +1,4 @@
-Comuniçâo Serial
+﻿Comunição Serial
 ==================
 
 Enviar e receber dados 
