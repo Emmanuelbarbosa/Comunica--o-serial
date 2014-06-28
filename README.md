@@ -1,4 +1,4 @@
 ﻿Comunição Serial
 ==================
 
-Enviar e receber dados 
+Autor : Emmanuel Barbosa da Silva
